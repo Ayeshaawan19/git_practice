@@ -3,5 +3,5 @@ void main() {
   int b = 1;
   int c = 3;
 
-  print(a + b);
+  print(a + b + c);
 }
